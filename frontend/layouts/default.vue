@@ -7,6 +7,7 @@
 
 <style scoped>
 .l_wrap {
+  overflow-y: auto;
   display: flex;
   flex-direction: column;
 }

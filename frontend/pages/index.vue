@@ -1,8 +1,7 @@
 <template>
-  <main class="l_main">
-    <orgs-Header> asd </orgs-Header>
+  <main id="contents" class="l_main">
     <article>
-      <h1></h1>
+      <h1>asd</h1>
     </article>
   </main>
 </template>
@@ -14,4 +13,8 @@ export default Vue.extend({})
 </script>
 
 <style>
+article {
+  padding: 10px;
+  min-height: 1200px;
+}
 </style>
